@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ### Online Demo: 
-http://emanoel.leroy-merlin-challenge.surge.sh/
+http://hn-clone-challenge.surge.sh/
 
 First you need to install all project dependences with:
 
